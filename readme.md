@@ -6,7 +6,7 @@ Changes:
   - 4,2 Scan for Detection Saber
   - 5,4 MP Hastera for Frontier of Ultima
   - 3,4,5 AP for Protect, Protera, and Protega respectively
-- New pictures for:
+- New icons for:
   - Abilities
     - Action Abilities
     - Growth Abilities
@@ -37,9 +37,9 @@ Changes:
 
 Credits:
 - Xaddgx for Detection Saber and Frontier of Ultima icons
-- Vlad for Frontier of Ultima Model
-- Tomk1004 for Detection Saber Model
+- Vlad for Frontier of Ultima model
+- Tomk1004 for Detection Saber model
 - Televo for Abilities, Magic, FAKE, and DUMMY icons
 - Crazycatz for Final and Anti Form icons
 - Naxshe for GoA Add-Ons
-- OpenKH and Plando Dev Server for Documentations
+- OpenKH and Plando Dev Server for documentations
