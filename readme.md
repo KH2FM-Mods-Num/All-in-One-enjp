@@ -1,4 +1,4 @@
-# All-in-One Crazycatz
+# All-in-One Xeeynamo
 
 Changes:
 - New "Vanilla" stats as follows:
