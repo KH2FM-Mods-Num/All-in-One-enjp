@@ -1,7 +1,7 @@
 # All-in-One Xeeynamo
 
 Changes:
-- New "Vanilla" stats as follows:
+- New "vanilla" stats as follows:
   - 3,1 Defender for FAKE
   - 4,2 Scan for Detection Saber
   - 5,4 MP Hastera for Frontier of Ultima
@@ -41,5 +41,5 @@ Credits:
 - Tomk1004 for Detection Saber model
 - Televo for Abilities, Magic, FAKE, and DUMMY icons
 - Crazycatz for Final and Anti Form icons
-- Naxshe for GoA Add-Ons
+- Naxshe for GoA add-ons
 - OpenKH and Plando Dev Server for documentations
