@@ -133,9 +133,6 @@ assets:
     - name: item.bin
 #Change "World Map" into "Garden" in World Points
 - name: msg/jp/sys.bar
-  multi:
-  - name: msg/us/sys.bar
-  - name: msg/uk/sys.bar
   method: binarc
   source:
   - name: sys
@@ -146,9 +143,6 @@ assets:
       language: en
 #Change GoA Door Texts
 - name: msg/jp/hb.bar
-  multi:
-  - name: msg/us/hb.bar
-  - name: msg/uk/hb.bar
   method: binarc
   source:
   - name: hb
