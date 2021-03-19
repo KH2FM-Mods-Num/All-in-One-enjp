@@ -97,16 +97,39 @@
     for your next move.
 - id: 0x3859
   en: Return to the Garden of Assemblage?
-- id: 0x467B
+- id: 0x3B18
   en: >-
-    Enables the Special Portal at
+    Grants Sora and co. early access
 
-    the Garden of Assemblage.
+    to the Heartless Manufactory
+
+    in Ansem the Wise's laboratory.
+- id: 3B1A
+  en: >-
+    Serves as protection from
+
+    the Underworld's curse.
+
+    {:color #F0F00080}(Unavailable in forced fights){:reset}
+- id: 0x467C
+  en: >-
+    Having all three Proofs, enables the 
+
+    Special Portal in the middle of 
+
+    Garden of Assemblage.
+- id: 4C0F
+  en: >-
+    Serves as a Pass for Sora and co.
+
+    to enter the Underdrome and the 
+
+    Paradox Cups.
 - id: 0x4E2D
   en: >-
-    Unlocks Final Form within your next 5
+    Ensures Anti Form when possible with a 
 
-    Drive Form Transformations.
+    chance of Unlocking Final Form.
 - id: 0x4E83
   en: Dodge Roll LV1
 - id: 0x4E85
