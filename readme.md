@@ -1,4 +1,4 @@
-# All-in-One Xeeynamo
+# All-in-One enjp
 
 Changes:
 - Model for Detection Saber and Frontier of Ultima
@@ -7,7 +7,7 @@ Changes:
   - 4,2 Scan for Detection Saber
   - 5,4 MP Hastera for Frontier of Ultima
   - 3,4,5 AP for Protect, Protera, and Protega respectively
-- New icons for:
+- New pictures for:
   - Abilities
     - Action Abilities
     - Growth Abilities
@@ -34,13 +34,14 @@ Changes:
     - Gained Accessory Slot!
     - Gained Item Slot!
 - World icons and texts for GoA doors
+- Appropriate texts and icons for stat-increasing DUMMY
 - "Garden" instead of "World Map" prompt on World Points
 
 Credits:
-- Xaddgx for Detection Saber and Frontier of Ultima icons
+- Xaddgx for Detection Saber and Frontier of Ultima pictures
 - Vlad for Frontier of Ultima model
 - Tomk1004 for Detection Saber model
-- Televo for Abilities, Magic, FAKE, and DUMMY icons
-- Crazycatz for Final and Anti Form icons
+- Televo for Abilities, Magic, FAKE, and DUMMY pictures
+- Crazycatz for Final and Anti Form pictures
 - Naxshe for GoA add-ons
 - OpenKH and Plando Dev Server for documentations
