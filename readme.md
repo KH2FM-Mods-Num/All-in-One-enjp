@@ -1,6 +1,7 @@
 # All-in-One Xeeynamo
 
 Changes:
+- Model for Detection Saber and Frontier of Ultima
 - New "vanilla" stats as follows:
   - 3,1 Defender for FAKE
   - 4,2 Scan for Detection Saber
