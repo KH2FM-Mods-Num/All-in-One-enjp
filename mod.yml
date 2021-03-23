@@ -1,7 +1,7 @@
 title: All-in-One enjp
 originalAuthor: Various sources credited in the Readme
 game: kh2
-description: A compilation of mod to be used with the Garden of Assemblage mod and Randomizer after Xeeynamo's .kh2patch, Crazycatz's .kh2patch, or Tommadness/languagepack-enjp. Usage with Crazycatz's .kh2patch also requires KH2FM-Mods-Num/Crazycatz-Fixes.
+description: A compilation of mod to be used with the Garden of Assemblage mod and Randomizer after the PS2 English patches, or Tommadness/languagepack-enjp. Usage with Crazycatz's patch also requires KH2FM-Mods-Num/Crazycatz-Fixes.
 assets:
 #Detection Saber Model
 - name: obj/W_EX010_Y0.a.fm
