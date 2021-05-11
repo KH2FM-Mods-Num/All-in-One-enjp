@@ -33,9 +33,13 @@ Changes:
     - Gained Armor Slot!
     - Gained Accessory Slot!
     - Gained Item Slot!
+- Moved Twilight Thorn's HP Bonus to Prison Keeper
+- Changed Limit Form and Anti Form's Texts
 - World icons and texts for GoA doors
 - Appropriate texts and icons for stat-increasing DUMMY
-- "Garden" instead of "World Map" prompt on World Points
+- "Garden" instead of "World Map" prompt on World Points and SP Terminals
+
+*Text on English Only
 
 Credits:
 - Xaddgx for Detection Saber and Frontier of Ultima pictures
